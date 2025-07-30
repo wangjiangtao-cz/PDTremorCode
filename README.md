@@ -1,7 +1,7 @@
 # PDTremorCode
 This repository contains the code used for our paper, focusing on tremor classification in Parkinson's disease using smartwatch sensor data (PADS dataset). The implementation includes data preprocessing, model training, ablation experiments, and visualization.
 
-## Our code is located under code/second_paper.
+Our code is located under code/second_paper.
 
 ## Project Structure
 <pre markdown="1">
