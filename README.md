@@ -27,7 +27,7 @@ code/
 
 2.You can download it from the following website: https://physionet.org/content/parkinsons-disease-smartwatch/1.0.0/
 
-3.In addition to the original partial processing code included with the dataset, you can find a `.ipynb` file under `code/second_paper` that contains our additional data processing. You only need to modify the file paths accordingly.
+3.In addition to the original partial processing code included with the dataset, you can find a `.ipynb` file under `code/second_paper` that contains our code for dataset splitting. You only need to modify the file paths accordingly.
 
 ## Setup
 The code runs on Windows 11.
