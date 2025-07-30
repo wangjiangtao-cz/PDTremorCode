@@ -9,7 +9,7 @@ code/
 └── second_paper/
     ├── checkpoint/                      # Trained model checkpoints
     ├── filternet/, layers/, models/    # Supporting model components
-    ├── test/                            # Test scripts
+    ├── test/                            
     ├── two_model_confu/                 # Main training/testing logic and core modules
         ├── paifilter/, tcanet/, timenet_xiugai/, tps/
         ├── main_two.py                  # Main training entry
