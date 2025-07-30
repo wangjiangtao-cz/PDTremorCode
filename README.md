@@ -65,8 +65,10 @@ Step 3: Run model testing
 python `two_model_confu/test_model.py`
 
 Ablation & Modular Design
-The file two_model_confu/model.py defines the overall model structure.
+
+The file `two_model_confu/model.py` defines the overall model structure.
 You can enable/disable specific modules or change configurations to perform ablation experiments.
+
 Key modules (with full implementation) are located in:
 `two_model_confu/paifilter`
 `two_model_confu/tcanet`
