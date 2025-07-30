@@ -77,7 +77,13 @@ Visualization
 The script `two_model_confu/t_sne.py` provides t-SNE visualization for evaluating feature separability in embedding space.
 Other utility scripts are available for analyzing similarity matrices and class attention (e.g., 计算相似性矩阵.py, 类别权重.py).
 
+## Acknowledgments
+This project is based on the PADS dataset from PhysioNet. We thank the original data contributors.
+Varghese, J., Brenner, A., Plagwitz, L., van Alen, C., Fujarski, M., & Warnecke, T. (2024). PADS - Parkinsons Disease Smartwatch dataset (version 1.0.0). PhysioNet. RRID:SCR_007345. https://doi.org/10.13026/m0w9-zx22
 
+Varghese, J., Brenner, A., Fujarski, M., van Alen, C.M., Plagwitz, L., & Warnecke, T. (2024). Machine Learning in the Parkinson's disease smartwatch (PADS) dataset. npj Parkinsons Dis. 10, 9.
+
+Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220. RRID:SCR_007345.
 
 
 
