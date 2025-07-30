@@ -56,13 +56,13 @@ First, you need to navigate to the `code/second_paper` directory, then you can p
 
 ### The full execution process is as follows:：
 Step 1: Change directory
-cd `code/second_paper`
+`cd code/second_paper`
 
 Step 2: Run training
-python `two_model_confu/main_two.py`
+`python two_model_confu/main_two.py`
 
 Step 3: Run model testing
-python `two_model_confu/test_model.py`
+`python two_model_confu/test_model.py`
 
 Ablation & Modular Design
 
